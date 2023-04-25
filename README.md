@@ -1,6 +1,6 @@
-#Proyecto App de tareas
+# Proyecto App de tareas
 
-##para ejecutar en local 
+## para ejecutar en local 
 
 1.clonar el repositorio **https://github.com/LuisVazquez3000/task_app.git** 
 
